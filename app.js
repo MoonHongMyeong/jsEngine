@@ -1,5 +1,5 @@
 import {Character} from './character.js';
-
+//ver.1
 class App{
     constructor(){
         this.canvas = document.createElement('canvas');
